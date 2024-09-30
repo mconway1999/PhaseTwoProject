@@ -1,0 +1,29 @@
+{
+    "clothes":[
+        {"id":1,
+        "price": 15.99,
+        "type": "Dress",
+        "image":"images/black_dress.png"
+    },
+        {"id":2,
+        "price": 29.99,
+        "type": "Jeans",
+        "image":"images_jeans.png"
+    },
+        {"id":3,
+        "price": 27.99,
+        "type": "Jacket",
+        "image":"images/blue_jacket.png"
+    },
+        {"id":4,
+        "price": 34.79,
+        "type": "Boots",
+        "image":"images/boot.png"
+    },
+        {"id":5,
+        "price": 24.99,
+        "type": "Jacket",
+        "image":"images/pink_jacket.png"
+    }
+    ]
+}
