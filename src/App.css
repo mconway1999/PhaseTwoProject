@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-color: #61dafb;
+}
+
+.input{
+  background-color: #fff;
+  padding: 5px
 }
 
 .App-logo {
@@ -12,7 +18,42 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.link-style{
+    background-color: royalblue;
+    color:#fff;
+    padding: 5px;
+    font-size: large;
+    text-decoration: solid;
+    font-weight: bold;
 
+}
+
+.btn{
+  background-color: #fff;
+  padding: 5px;
+}
+
+.header{
+   background-color: mediumblue;
+    color: #fff;
+    padding: 5px;
+    font-size: large;
+}
+
+.resize-image{
+    width: 300px;
+    height: 400px;
+}
+.style-form{
+    color:white;
+    background-color: royalblue
+}
+.aboutStyle{
+    background-color: royalblue;
+      color: #fff;
+      font-weight: bold;
+     
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -25,7 +66,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #fff;
 }
 
 @keyframes App-logo-spin {

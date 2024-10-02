@@ -1,29 +1,46 @@
 {
-    "clothes":[
-        {"id":1,
-        "price": 15.99,
-        "type": "Dress",
-        "image":"images/black_dress.png"
+  "clothes": [
+    {
+      "id": "1",
+      "price": 15.99,
+      "type": "Dress",
+      "image": "/images/black_dress.png",
+      "displayStock": true
     },
-        {"id":2,
-        "price": 29.99,
-        "type": "Jeans",
-        "image":"images_jeans.png"
+    {
+      "id": "2",
+      "price": 29.99,
+      "type": "Jeans",
+      "image": "/images/blue_jean.png",
+      "displayStock": true
     },
-        {"id":3,
-        "price": 27.99,
-        "type": "Jacket",
-        "image":"images/blue_jacket.png"
+    {
+      "id": "3",
+      "price": 27.99,
+      "type": "Jacket",
+      "image": "/images/blue_jacket.png",
+      "displayStock": true
     },
-        {"id":4,
-        "price": 34.79,
-        "type": "Boots",
-        "image":"images/boot.png"
+    {
+      "id": "4",
+      "price": 34.79,
+      "type": "Boots",
+      "image": "/images/tan_boots.png",
+      "displayStock": true
     },
-        {"id":5,
-        "price": 24.99,
-        "type": "Jacket",
-        "image":"images/pink_jacket.png"
+    {
+      "id": "5",
+      "price": 24.99,
+      "type": "Jacket",
+      "image": "/images/pink_jacket.png",
+      "displayStock": true
+    },
+    {
+      "id": "48ae",
+      "type": "Dress",
+      "image": "https://img.kwcdn.com/product/fancy/c1a7d917-e67a-4291-8965-105a279b7738.jpg?imageView2/2/w/800/q/70/format/webp",
+      "price": "15.99",
+      "displayStock": true
     }
-    ]
+  ]
 }
